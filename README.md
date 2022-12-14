@@ -20,5 +20,7 @@ Site utilizado como base para criação do desafio: https://www.saucedemo.com/
 - Um documento contendo no mínimo 2 User Stories
 - Mind-map de pelo menos 1 User Story
 - 2 Casos de teste utilizando a técnica step-by-step
+  ![SetpByStep](https://user-images.githubusercontent.com/83167411/207740085-7757b5dc-ac52-4184-a4cc-5366b4bd459e.png)
 - 2 casos de testes utilizando BDD
+  ![BDD](https://user-images.githubusercontent.com/83167411/207740099-1599d33a-01f8-460f-871b-9f93c69cada7.png)
   
