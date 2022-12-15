@@ -1,7 +1,8 @@
-Site utilizado como base para criação do desafio: https://www.saucedemo.com/
 
-## Desafios
+## Desafio
 O dia a dia de um QA: A prática de testes manuais funcionais
+
+Site utilizado como base para criação do desafio: https://www.saucedemo.com/
 
 
 ### ️1️⃣ Um plano de fluxo de trabalho de desenvolvimento e do ciclo de vida do bug
